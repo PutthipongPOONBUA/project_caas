@@ -1,0 +1,46 @@
+body {
+    font-family: "TH SarabunPSK";
+
+}
+* {
+    font-size: 14px;
+}
+.cell-column {
+    padding: 7px;
+    vertical-align: top;
+    font-size: 12px;
+}
+
+.text-header {
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.text-detail {
+    font-size: 12px;
+}
+
+.text-shop {
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.cell-header {
+    padding: 7px;
+    font-size: 12px;
+    background-color: #D5D5D5;
+    text-align: center;
+}
+
+.text-left {
+    text-align: left;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.text-right {
+    text-align: right;
+}
